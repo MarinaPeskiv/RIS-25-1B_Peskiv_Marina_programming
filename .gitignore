@@ -32,7 +32,6 @@
 *.a
 *.lib
 
-*.png
 # Executables
 *.exe
 *.out
@@ -40,3 +39,5 @@
 
 # debug information files
 *.dwo
+
+*.png
